@@ -1,0 +1,5 @@
+My personal thoughts with the LED:
+
+I wanted to use the LED like a study lamp. It's not as bright as I wanted and setting the RGB to 250 does make kind of white light but it does reminds me of the LEDs used for fish tanks. I think it can be used as a night light and it would be fun if you use it with a motion sensor (though I don't trust motion sensor after it randomly turns on in the middle of the night, lol). One positive aspect of this LED is that you can control individual LED despite it having one sensor input. 
+
+In terms of coding, at first it was quite confusing how to get it started. It had 3 input wires with 2 extra wire sticking out and you do need specific code to get it running. The datasheet does provide a code that makes your LED into disco party but it doesn't really explain what's going on too much so you need to play around with it a bit to understand. As an important note, make sure the two extra wires do not touch each other or else the LEDs won't work.
